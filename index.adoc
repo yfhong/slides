@@ -1,0 +1,16 @@
+= Slide Decks
+Hong Yifan <https://twitter.com/yfhong[@yfhong]>
+:title: Hong Yifan's slides Decks
+:description: A collection of HTML 5-based presentation slide decks.
+:linkcss!:
+:docinfo:
+:sectids!:
+
+A collection of HTML 5-based presentation slide decks.
+
+== {empty}
+
+Apr 2015::
+
+  * link:https://yfhong.github.io/cmcc/operations/index.html[Ops] [ https://github.com/yfhong/cmcc/blob/master/operations/index.adoc[source] ]
+
