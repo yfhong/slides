@@ -1,0 +1,153 @@
+= Ops to Noops
+Hong Yifan <https://github.com/yfhong[@yfhong]>
+include::attributes.adoc[]
+
+[.topic]
+== OUTLINE
+
+- 1. Ops & No Ops
+- 2. Guide
+- 3. Ops with Cloud
+- 4. Q & A
+
+== !
+
+[.statement]
+
+Ops & No Ops
+
+[.topic.source]
+== Ops
+
+运维 :: 保证产品能够正确无误的运行以支持整体商业目标。
+
+运行 :: 业务部署，配置管理
+
+准确无误 :: 系统监控，异常检测
+
+支持商业目标 :: 额外的技术保障，可用率、安全、流程规范、响应时间等等
+
+[.topic.source]
+== No Ops
+
+.不运维
+
+Operations :: 操作
+
+No Ops :: 不操作
+
+[.topic.source]
+== DevOps
+
+.是一系列的方法论的总和
+
+.促进开发与运维的协调
+
+.降低生产风险，提高生产效率
+
+== !
+
+[.statement]
+
+Guide
+
+[.topic.source]
+== Availability
+
+.应用正常运行的时间的百分比
+
+.Availability
+|===
+| 可用性 | 百分比 | 年停机时间
+
+| 2个9
+| 99%
+| 87.6h
+
+| 3个9
+| 99.9%
+| 8.8h
+
+| 4个9
+| 99.99%
+| 53min
+
+| 5个9
+| 99.999%
+| 5min
+|===
+
+
+[.topic.source]
+== HOWTO?
+
+快速修复故障 :: 发现问题、定位问题、解决问题
+
+  发现问题 :: 监控、报警
+
+故障发生之前 :: 容量规划、流程规范、自动化
+
+故障发生之后 :: 总结
+
+其他 :: 知识管理
+
+
+[.topic.source]
+== Architecture
+
+.以配置管理与监控系统为核心
+.将手工执行命令转化为变更受管配置
+.审计配置变更
+.审计操作
+.工单系统
+
+== !
+
+[.statement]
+
+Ops with Cloud
+
+[.topic.source]
+== Cloud
+
+.资源的整合与再分配
+....
+隔离
+完整
+....
+
+.全虚拟化
+....
+KVM/XEN/VMWare
+强隔离
+安全
+
+.容器化
+....
+LXC/Docker/Jails/Zones
+快速
+性能
+....
+
+
+== !
+
+
+[.topic]
+== Further Readings
+
+. http://git-scm.com/book
+
+. http://git-scm.com/book/zh
+
+. http://cheat.errtheblog.com/s/git
+
+. http://schacon.github.com/git/user-manual.html
+
+. http://marklodato.github.com/visual-git-guide/index-en.html
+
+[.topic.ending, hrole="name"]
+== Q & A
+
+[.footer]
+[fa-twitter]'{zwsp}' @yfhong
