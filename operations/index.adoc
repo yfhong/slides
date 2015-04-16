@@ -130,21 +130,6 @@ LXC/Docker/Jails/Zones
 ....
 
 
-== !
-
-
-[.topic]
-== Further Readings
-
-. http://git-scm.com/book
-
-. http://git-scm.com/book/zh
-
-. http://cheat.errtheblog.com/s/git
-
-. http://schacon.github.com/git/user-manual.html
-
-. http://marklodato.github.com/visual-git-guide/index-en.html
 
 [.topic.ending, hrole="name"]
 == Q & A
