@@ -56,7 +56,7 @@ Guide
 
 .应用正常运行的时间的百分比
 
-[width="40%",cols="^,2m",frame="topbot",options="header,footer",align="center"]
+[frame="topbot",options="header,footer",align="center"]
 |===
 | 可用性 | 百分比 | 年停机时间
 
