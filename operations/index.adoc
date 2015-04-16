@@ -20,30 +20,30 @@ Ops & No Ops
 == Ops
 
 运维:: 保证产品能够正确无误的运行以支持整体商业目标。
-
+....
 运行:: 业务部署，配置管理
 
 准确无误:: 系统监控，异常检测
 
 支持商业目标:: 额外的技术保障，可用率、安全、流程规范、响应时间等等
+....
 
 [.topic.source]
-== No Ops
+== No Ops, DevOps
 
-.不运维
+.一个人能运维多少台服务器？
 
-Operations :: 操作
+.不运维？
+....
+不操作:: 减轻工作量，减少出错机会，提高人均支持能力
+....
 
-No Ops :: 不操作
-
-[.topic.source]
-== DevOps
-
+.DevOps
+....
 .是一系列的方法论的总和
-
 .促进开发与运维的协调
-
 .降低生产风险，提高生产效率
+....
 
 == !
 
@@ -129,10 +129,8 @@ LXC/Docker/Jails/Zones
 性能
 ....
 
-
-
 [.topic.ending, hrole="name"]
 == Q & A
 
 [.footer]
-[fa-twitter]'{zwsp}' @yfhong
+@yfhong
