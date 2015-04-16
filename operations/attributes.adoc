@@ -10,7 +10,7 @@
 :caption-off: caption=""
 :title-off: title="", caption=""
 :dzslides-aspect: 16-9
-:dzslides-style: asciidoctor
+//:dzslides-style: asciidoctor
 :dzslides-transition: fade
 :dzslides-fonts: family=Neuton:400,700,800,400italic|Cedarville+Cursive
 :dzslides-highlight: asciidoctor
