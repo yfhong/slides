@@ -1,0 +1,25 @@
+= *NOOPS* Living without Ops
+Hong Yifan <https://github.com/yfhong[@yfhong]>
+v1.0.0, 2015-04-16
+// TODO nice to use inline and/or block macro syntax (:title-slide-background-image: image:scriptorium-bw.jpg[size=cover])
+:title-slide-background-image: scriptorium.jpg
+:title-slide-background-size: cover
+include::_slides/_metadata.adoc[]
+include::_slides/_settings.adoc[]
+
+
+include::_slides/ops.adoc
+
+include::_slides/noops.adoc
+
+include::_slides/devops.adoc
+
+include::_slides/availability.adoc
+
+include::_slides/guide.adoc
+
+include::_slides/structure.adoc
+
+include::_slides/cloud.adoc
+
+include::_slides/Q&A.adoc
